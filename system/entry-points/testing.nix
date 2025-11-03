@@ -7,7 +7,7 @@
 
   microvm = {
     hypervisor = "qemu";
-    vcpu = 2;
+    vcpu = 1;
     mem = 4096;
     socket = "control.socket";
 
